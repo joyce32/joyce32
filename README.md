@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @joyce32
+- 👋 Hi, I’m @joyce32 (a.k.a Tejaswi, pronounced Tay-juhs-wee)
 - 👀 I’m interested in data science and analytics
 - 🌱 I’m currently seeking a full time role in data science/analytics and pursuing a Google Data Analytics Professional Certificate.
 - 📫 How to reach me: trachapudi17@gmail.com
